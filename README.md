@@ -4,3 +4,4 @@
 <p>Now run <b>npm start</b>, then webapp will automatically open on port 3000</p>    
 
 <img src="ReadMeFiles/home.png"/>
+<img src="ReadMeFiles/404page.png"/>
